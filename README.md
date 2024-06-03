@@ -21,7 +21,7 @@ Instalación 💻
 
 * Clona el repositorio en tu máquina local:
 
-* git clone https://github.com/adrianvga/ConversorMoneda.git
+* git clone https://github.com/AdrianLopezVega/ConversorMoneda
 
 * Importa el proyecto en tu IDE favorito.
 
